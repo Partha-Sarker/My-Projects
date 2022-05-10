@@ -20,7 +20,7 @@ Implemented java socket programming for chatting and sharing text files over the
 Desktop app for solving linear equations via Gaussian elimination method.
 - *Unity, C#*
 
-### [Find Volunteer](https://github.com/Partha-Sarker/Find-Volunteer-Web-Project-using-Laravelt)
+### [Find Volunteer](https://github.com/Partha-Sarker/Find-Volunteer-Web-Project-using-Laravel)
 Web project built for collaborating volunteer and various events organized by the organizations. Join as organization, then crerate event and post circular. Or, join as volunteer and participate in events.
 - *Laravel, PHP, MySQL, Bootstrap*
 
